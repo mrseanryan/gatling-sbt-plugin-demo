@@ -1,3 +1,5 @@
+logLevel := Level.Warn
+
 enablePlugins(GatlingPlugin)
 
 scalaVersion := "2.13.8"

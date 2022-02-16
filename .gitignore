@@ -2,4 +2,6 @@ target
 .idea
 .settings
 .classpath
-.project
+.project.metals/metals.log
+.metals/
+sean-notes.private.md
